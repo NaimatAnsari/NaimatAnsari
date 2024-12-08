@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently Student of **Software Engineering.**
 
-- 👨‍💻 All of my projects are available at [https://naimatansari.github.io/Naimat-Portfolio/](https://naimatansari.github.io/Naimat-Portfolio/)
+- 👨‍💻 All of my projects are available at [[https://naimatansari.github.io/Naimat-Portfolio/](https://naimatali.vercel.app)](https://naimatali.vercel.app)
 
 - 💬 Ask me about **Frontend Development**
 
