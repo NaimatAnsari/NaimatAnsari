@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently Student of **Software Engineering.**
 
-- 👨‍💻 All of my projects are available at [https://naimatali.vercel.app]
+- 👨‍💻 All of my projects are available at [https://naimatali.vercel.app](https://naimatali.vercel.app/)
 
 - 💬 Ask me about **Frontend Development**
 
@@ -18,7 +18,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/naimat ansari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naimat ansari" height="30" width="40" /></a>
 <a href="https://fb.com/naimat ansari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="naimat ansari" height="30" width="40" /></a>
-<a href="https://instagram.com/naimat_ansari98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="naimat_ansari98" height="30" width="40" /></a>
+<a href="https://instagram.com/naimatansari1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="naimatansari1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
